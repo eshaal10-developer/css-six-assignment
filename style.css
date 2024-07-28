@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+}
+.abc {
+    border: 2px solid #F15757;
+    color: white;
+    background-color: transparent;
+    width: 120px;
+    height: 20px;
+    margin-top: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.abc:hover {
+    background-color: #F15757;
+}
